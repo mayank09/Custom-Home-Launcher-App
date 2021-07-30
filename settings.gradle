@@ -1,0 +1,3 @@
+rootProject.name = "CustomLauncher"
+include ':app'
+include ':tesseractsdk'
